@@ -47,8 +47,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 my_projects/
-
-# Course materials (keep only homework)
-lesson*/examples/
-lesson*/slides*.pdf
-lesson*/__init__.py
