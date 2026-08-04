@@ -94,6 +94,11 @@
 ```bash
 cd C:\Users\asidorov\PycharmProjects\otus\otus_ai_agent
 source venv/Scripts/activate
+pip install -r lesson11/hw/requirements.txt
+```
+
+Или вручную:
+```bash
 pip install numpy networkx openai python-dotenv httpx
 ```
 
